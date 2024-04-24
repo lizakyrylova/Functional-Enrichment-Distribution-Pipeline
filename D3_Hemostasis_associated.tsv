@@ -1,0 +1,103 @@
+Root Superpathway	Gene Identifier	Log fold difference
+Cell surface interactions at the vascular wall	CD44	0.192454008
+Cell surface interactions at the vascular wall	ITPRID2	0.05410696
+Cell surface interactions at the vascular wall	MAP4	0.128204531
+Cell surface interactions at the vascular wall	NCOA7	0.075654712
+Cell surface interactions at the vascular wall	NFATC2	0.0789419
+Cell surface interactions at the vascular wall	PRCC	0.095086475
+Cell surface interactions at the vascular wall	PRKCD	0.118830724
+Cell surface interactions at the vascular wall	SLC7A6	0.066195011
+Factors involved in megakaryocyte development and platelet production	TUBB6	0.129073184
+Factors involved in megakaryocyte development and platelet production	ATF5	0.080035945
+Factors involved in megakaryocyte development and platelet production	CENPE	0.139713216
+Factors involved in megakaryocyte development and platelet production	KIF11	0.141837587
+Factors involved in megakaryocyte development and platelet production	KIF15	0.105780487
+Factors involved in megakaryocyte development and platelet production	KIF18A	0.082188396
+Factors involved in megakaryocyte development and platelet production	KIF20A	0.075420071
+Factors involved in megakaryocyte development and platelet production	KIF22	0.16861545
+Factors involved in megakaryocyte development and platelet production	KIF2A	0.095873284
+Factors involved in megakaryocyte development and platelet production	KIF2C	0.145834055
+Factors involved in megakaryocyte development and platelet production	KIF4A	0.130910338
+Factors involved in megakaryocyte development and platelet production	KIF5B	0.113146187
+Factors involved in megakaryocyte development and platelet production	KIFC1	0.125881516
+Factors involved in megakaryocyte development and platelet production	RACGAP1	0.123667613
+Factors involved in megakaryocyte development and platelet production	RHOG	0.183102289
+Factors involved in megakaryocyte development and platelet production	STMN1	0.260380486
+Factors involved in megakaryocyte development and platelet production	TUBA1A	0.156627125
+Factors involved in megakaryocyte development and platelet production	TUBA1B	0.101143429
+Factors involved in megakaryocyte development and platelet production	TUBA1C	0.176532307
+Factors involved in megakaryocyte development and platelet production	TUBB	0.087774374
+Factors involved in megakaryocyte development and platelet production	TUBB2A	0.087459463
+Formation of Fibrin Clot (Clotting Cascade)	C1QBP	0.112365425
+Formation of Fibrin Clot (Clotting Cascade)	C1S	0.012192347
+Formation of Fibrin Clot (Clotting Cascade)	COX7A2	0.125413053
+Formation of Fibrin Clot (Clotting Cascade)	LMAN1	0.118104638
+Formation of Fibrin Clot (Clotting Cascade)	PECAM1	0.091455341
+Formation of Fibrin Clot (Clotting Cascade)	POGLUT1	0.09177302
+"Platelet activation, signaling and aggregation"	ABCE1	0.061240984
+"Platelet activation, signaling and aggregation"	ANXA2	0.162763412
+"Platelet activation, signaling and aggregation"	ANXA4	0.15141579
+"Platelet activation, signaling and aggregation"	ANXA5	0.181959795
+"Platelet activation, signaling and aggregation"	ARPC1B	0.099556557
+"Platelet activation, signaling and aggregation"	ARPC2	0.137749611
+"Platelet activation, signaling and aggregation"	BLK	0.088632916
+"Platelet activation, signaling and aggregation"	CAP1	0.13671443
+"Platelet activation, signaling and aggregation"	CAPG	0.25434739
+"Platelet activation, signaling and aggregation"	CAPZB	0.142889906
+"Platelet activation, signaling and aggregation"	CD44	0.192454008
+"Platelet activation, signaling and aggregation"	CD63	0.140626189
+"Platelet activation, signaling and aggregation"	CD79B	0.073152066
+"Platelet activation, signaling and aggregation"	CD99	0.109460286
+"Platelet activation, signaling and aggregation"	COTL1	0.230154976
+"Platelet activation, signaling and aggregation"	CSTB	0.203881035
+"Platelet activation, signaling and aggregation"	CTSA	0.067635899
+"Platelet activation, signaling and aggregation"	CTSB	0.130416533
+"Platelet activation, signaling and aggregation"	CTSC	0.078813352
+"Platelet activation, signaling and aggregation"	CYB561A3	0.077989563
+"Platelet activation, signaling and aggregation"	CYBA	0.087139311
+"Platelet activation, signaling and aggregation"	FKBP1A	0.171963436
+"Platelet activation, signaling and aggregation"	FLNA	0.179382808
+"Platelet activation, signaling and aggregation"	FTH1	0.088919293
+"Platelet activation, signaling and aggregation"	FTL	0.0595283
+"Platelet activation, signaling and aggregation"	FXYD5	0.165427773
+"Platelet activation, signaling and aggregation"	GNAI2	0.187836129
+"Platelet activation, signaling and aggregation"	GNAI3	0.119632884
+"Platelet activation, signaling and aggregation"	GNB1	0.150412186
+"Platelet activation, signaling and aggregation"	GNB2	0.169148806
+"Platelet activation, signaling and aggregation"	GRN	0.195662364
+"Platelet activation, signaling and aggregation"	GSN	0.077838564
+"Platelet activation, signaling and aggregation"	IFNGR2	0.032887678
+"Platelet activation, signaling and aggregation"	ITGB1	0.053487609
+"Platelet activation, signaling and aggregation"	LAMP1	0.058251673
+"Platelet activation, signaling and aggregation"	LCK	0.089820848
+"Platelet activation, signaling and aggregation"	LGALS1	0.334663433
+"Platelet activation, signaling and aggregation"	LGALS3	0.238283066
+"Platelet activation, signaling and aggregation"	LMNA	0.251090802
+"Platelet activation, signaling and aggregation"	MGAT1	0.079748229
+"Platelet activation, signaling and aggregation"	MSN	0.137523681
+"Platelet activation, signaling and aggregation"	MYH9	0.168057057
+"Platelet activation, signaling and aggregation"	NPC2	0.090266454
+"Platelet activation, signaling and aggregation"	NUMB	0.102547649
+"Platelet activation, signaling and aggregation"	PEA15	0.103472354
+"Platelet activation, signaling and aggregation"	PLCG2	0.117870183
+"Platelet activation, signaling and aggregation"	PLP2	0.152683325
+"Platelet activation, signaling and aggregation"	PSAP	0.174032867
+"Platelet activation, signaling and aggregation"	S100A10	0.245743753
+"Platelet activation, signaling and aggregation"	S100A11	0.180269245
+"Platelet activation, signaling and aggregation"	S100A4	0.126321752
+"Platelet activation, signaling and aggregation"	S100A6	0.068645843
+"Platelet activation, signaling and aggregation"	SH3BGRL3	0.112425694
+"Platelet activation, signaling and aggregation"	SRGN	0.203005857
+"Platelet activation, signaling and aggregation"	TAGLN2	0.104188705
+"Platelet activation, signaling and aggregation"	TLN1	0.114221381
+"Platelet activation, signaling and aggregation"	TPM4	0.174098039
+"Platelet activation, signaling and aggregation"	TSPO	0.217432193
+"Platelet activation, signaling and aggregation"	TUBB6	0.129073184
+"Platelet activation, signaling and aggregation"	VAT1	0.056351648
+"Platelet activation, signaling and aggregation"	VIM	0.087189276
+"Platelet activation, signaling and aggregation"	WDR1	0.166479685
+"Platelet activation, signaling and aggregation"	ZYX	0.102321022
+Platelet homeostasis	FKBP1A	0.171963436
+Platelet homeostasis	PRDX4	0.086657883
+Platelet homeostasis	TRPC4AP	0.057388712
+Platelet homeostasis	TXNDC5	0.055528774

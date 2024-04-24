@@ -1,0 +1,135 @@
+Root Superpathway	Gene Identifier	Log fold difference				
+Cell surface interactions at the vascular wall	CD44	0.105762285				
+Cell surface interactions at the vascular wall	MAP4	0.132650688				
+Cell surface interactions at the vascular wall	NCOA7	0.060683368				
+Cell surface interactions at the vascular wall	NFATC2	0.084349746				
+Cell surface interactions at the vascular wall	PRCC	0.055666115				
+Cell surface interactions at the vascular wall	PRKCD	0.076085895				
+Cell surface interactions at the vascular wall	SLC25A13	0.056580047				
+Factors involved in megakaryocyte development and platelet production	ATF5	0.09027914				
+Factors involved in megakaryocyte development and platelet production	KIF2A	0.098362927				
+Factors involved in megakaryocyte development and platelet production	KIF2C	0.056194151				
+Factors involved in megakaryocyte development and platelet production	KIF5B	0.084134868				
+Factors involved in megakaryocyte development and platelet production	RHOG	0.125796577				
+Factors involved in megakaryocyte development and platelet production	STMN1	0.069334745				
+Factors involved in megakaryocyte development and platelet production	TUBA1A	0.141119817				
+Factors involved in megakaryocyte development and platelet production	TUBA1C	0.072511499				
+Formation of Fibrin Clot (Clotting Cascade)	C1QBP	0.098332656				
+Formation of Fibrin Clot (Clotting Cascade)	C1S	0.007529013				
+Formation of Fibrin Clot (Clotting Cascade)	COX7A2	0.106783025				
+Formation of Fibrin Clot (Clotting Cascade)	LMAN1	0.072801223				
+Formation of Fibrin Clot (Clotting Cascade)	PECAM1	0.076730207				
+"Platelet activation, signaling and aggregation"	ABCE1	0.052951041				
+"Platelet activation, signaling and aggregation"	ANXA2	0.124175497				
+"Platelet activation, signaling and aggregation"	ANXA4	0.119412687				
+"Platelet activation, signaling and aggregation"	ANXA5	0.109466777				
+"Platelet activation, signaling and aggregation"	ARHGAP31	0.054962464				
+"Platelet activation, signaling and aggregation"	ARPC1B	0.092353162				
+"Platelet activation, signaling and aggregation"	ARPC2	0.10737918				
+"Platelet activation, signaling and aggregation"	BLK	0.124117267				
+"Platelet activation, signaling and aggregation"	CAP1	0.094486548				
+"Platelet activation, signaling and aggregation"	CAPG	0.143709878				
+"Platelet activation, signaling and aggregation"	CAPZB	0.117139647				
+"Platelet activation, signaling and aggregation"	CD44	0.105762285				
+"Platelet activation, signaling and aggregation"	CD63	0.09286204				
+"Platelet activation, signaling and aggregation"	CLIC1	0.098846792				
+"Platelet activation, signaling and aggregation"	COTL1	0.113931692				
+"Platelet activation, signaling and aggregation"	CSTB	0.140948771				
+"Platelet activation, signaling and aggregation"	CTSB	0.101202541				
+"Platelet activation, signaling and aggregation"	CYB561A3	0.068667966				
+"Platelet activation, signaling and aggregation"	CYBA	0.103013456				
+"Platelet activation, signaling and aggregation"	EMP3	0.081407174				
+"Platelet activation, signaling and aggregation"	FKBP1A	0.115348371				
+"Platelet activation, signaling and aggregation"	FLNA	0.100399182				
+"Platelet activation, signaling and aggregation"	FXYD5	0.11708295				
+"Platelet activation, signaling and aggregation"	GNAI2	0.118282326				
+"Platelet activation, signaling and aggregation"	GNAI3	0.100040309				
+"Platelet activation, signaling and aggregation"	GNB1	0.088064414				
+"Platelet activation, signaling and aggregation"	GNB2	0.092626404				
+"Platelet activation, signaling and aggregation"	GRN	0.161770675				
+"Platelet activation, signaling and aggregation"	GSN	0.070316794				
+"Platelet activation, signaling and aggregation"	IFNGR2	0.043368602				
+"Platelet activation, signaling and aggregation"	ITGB1	0.080946543				
+"Platelet activation, signaling and aggregation"	LAMP1	0.058526306				
+"Platelet activation, signaling and aggregation"	LGALS1	0.128804613				
+"Platelet activation, signaling and aggregation"	LGALS3	0.114979337				
+"Platelet activation, signaling and aggregation"	LMNA	0.08730431				
+"Platelet activation, signaling and aggregation"	MSN	0.143070022				
+"Platelet activation, signaling and aggregation"	MYH9	0.133301518				
+"Platelet activation, signaling and aggregation"	NPC2	0.126832161				
+"Platelet activation, signaling and aggregation"	NUMB	0.093196174				
+"Platelet activation, signaling and aggregation"	PEA15	0.061849619				
+"Platelet activation, signaling and aggregation"	PLCG2	0.090755066				
+"Platelet activation, signaling and aggregation"	PLP2	0.05028676				
+"Platelet activation, signaling and aggregation"	PSAP	0.11967692				
+"Platelet activation, signaling and aggregation"	PTPN6	0.103075745				
+"Platelet activation, signaling and aggregation"	S100A10	0.132094115				
+"Platelet activation, signaling and aggregation"	S100A11	0.110789857				
+"Platelet activation, signaling and aggregation"	S100A4	0.137419333				
+"Platelet activation, signaling and aggregation"	S100A6	0.123856683				
+"Platelet activation, signaling and aggregation"	SH3BGRL3	0.103391646				
+"Platelet activation, signaling and aggregation"	SRGN	0.108750705				
+"Platelet activation, signaling and aggregation"	TAGLN2	0.073056723				
+"Platelet activation, signaling and aggregation"	TLN1	0.118975139			ABCE1	ABCE1
+"Platelet activation, signaling and aggregation"	TPM4	0.075869467			ANXA2	ANXA2
+"Platelet activation, signaling and aggregation"	TSPO	0.145344838			ANXA4	ANXA4
+"Platelet activation, signaling and aggregation"	VAT1	0.063018677			ANXA5	ANXA5
+"Platelet activation, signaling and aggregation"	VIM	0.05852317			ARPC1B	ARHGAP31
+"Platelet activation, signaling and aggregation"	WDR1	0.09658878			ARPC2	ARPC1B
+"Platelet activation, signaling and aggregation"	ZYX	0.057486272			BLK	ARPC2
+Platelet homeostasis	FKBP1A	0.115348371			CAP1	BLK
+					CAPG	CAP1
+					CAPZB	CAPG
+					CD44	CAPZB
+					CD63	CD44
+					CD79B	CD63
+					CD99	CLIC1
+					COTL1	COTL1
+					CSTB	CSTB
+					CTSA	CTSB
+					CTSB	CYB561A3
+					CTSC	CYBA
+					CYB561A3	EMP3
+					CYBA	FKBP1A
+					FKBP1A	FLNA
+					FLNA	FXYD5
+					FTH1	GNAI2
+					FTL	GNAI3
+					FXYD5	GNB1
+					GNAI2	GNB2
+					GNAI3	GRN
+					GNB1	GSN
+					GNB2	IFNGR2
+					GRN	ITGB1
+					GSN	LAMP1
+					IFNGR2	LGALS1
+					ITGB1	LGALS3
+					LAMP1	LMNA
+					LCK	MSN
+					LGALS1	MYH9
+					LGALS3	NPC2
+					LMNA	NUMB
+					MGAT1	PEA15
+					MSN	PLCG2
+					MYH9	PLP2
+					NPC2	PSAP
+					NUMB	PTPN6
+					PEA15	S100A10
+					PLCG2	S100A11
+					PLP2	S100A4
+					PSAP	S100A6
+					S100A10	SH3BGRL3
+					S100A11	SRGN
+					S100A4	TAGLN2
+					S100A6	TLN1
+					SH3BGRL3	TPM4
+					SRGN	TSPO
+					TAGLN2	VAT1
+					TLN1	VIM
+					TPM4	WDR1
+					TSPO	ZYX
+					TUBB6	
+					VAT1	
+					VIM	
+					WDR1	
+					ZYX	

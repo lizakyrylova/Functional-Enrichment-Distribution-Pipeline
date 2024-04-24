@@ -1,0 +1,310 @@
+Root Superpathway	Gene Identifier	Log fold difference
+Cell Cycle	RFC2	0.100382287
+Cell Cycle	RFC4	0.095506579
+Cell Cycle	RFC5	0.06410022
+Cell Cycle	DIMT1	0.059489958
+Cell Cycle	HDGF	0.120638028
+Cell Cycle Checkpoints	BUB1B	0.110220351
+Cell Cycle Checkpoints	BUB3	0.166217113
+Cell Cycle Checkpoints	CDC25C	0.058016019
+Cell Cycle Checkpoints	MAD2L1	0.154531362
+Cell Cycle Checkpoints	PLK1	0.115722667
+Cell Cycle Checkpoints	TTK	0.080313605
+Cell Cycle Checkpoints	CENPA	0.115753898
+Cell Cycle Checkpoints	CENPM	0.194619513
+Cell Cycle Checkpoints	CENPN	0.103285462
+Cell Cycle Checkpoints	CENPU	0.16852205
+Cell Cycle Checkpoints	ITGB3BP	0.061907104
+Cell Cycle Checkpoints	BAD	0.061331567
+Cell Cycle Checkpoints	BRWD1	0.097385636
+Cell Cycle Checkpoints	BUB1	0.146914614
+Cell Cycle Checkpoints	CDCA7	0.060615581
+Cell Cycle Checkpoints	CELF1	0.082487213
+Cell Cycle Checkpoints	CENPE	0.139713216
+Cell Cycle Checkpoints	CENPF	0.245290834
+Cell Cycle Checkpoints	CRTC2	0.066324279
+Cell Cycle Checkpoints	DDIT4	0.137663831
+Cell Cycle Checkpoints	DNAJB6	0.101115933
+Cell Cycle Checkpoints	EIF4EBP1	0.128310994
+Cell Cycle Checkpoints	GTSE1	0.129530692
+Cell Cycle Checkpoints	KHSRP	0.079171159
+Cell Cycle Checkpoints	KIF18A	0.082188396
+Cell Cycle Checkpoints	KNTC1	0.087628406
+Cell Cycle Checkpoints	MAPKAP1	0.121180209
+Cell Cycle Checkpoints	MLST8	0.093741519
+Cell Cycle Checkpoints	MLX	0.080637957
+Cell Cycle Checkpoints	MRFAP1	0.107770214
+Cell Cycle Checkpoints	MTOR	0.070662073
+Cell Cycle Checkpoints	NDC80	0.151931746
+Cell Cycle Checkpoints	NUF2	0.11229621
+Cell Cycle Checkpoints	PARN	0.07829931
+Cell Cycle Checkpoints	SAMSN1	0.079783234
+Cell Cycle Checkpoints	SIK3	0.063043668
+Cell Cycle Checkpoints	SPC25	0.079814234
+Cell Cycle Checkpoints	SPDL1	0.069195018
+Cell Cycle Checkpoints	TACC3	0.148901542
+Cell Cycle Checkpoints	TTF2	0.143679941
+Cell Cycle Checkpoints	TXNDC9	0.076742564
+Cell Cycle Checkpoints	YWHAB	0.105917816
+Cell Cycle Checkpoints	YWHAE	0.169660179
+Cell Cycle Checkpoints	YWHAG	0.075542651
+Cell Cycle Checkpoints	YWHAH	0.189363162
+Cell Cycle Checkpoints	YWHAQ	0.14504365
+Cell Cycle Checkpoints	YWHAZ	0.098991189
+Cell Cycle Checkpoints	ZWILCH	0.079154363
+Cell Cycle Checkpoints	ZWINT	0.16514745
+"Cell Cycle, Mitotic"	ADAR	0.069957318
+"Cell Cycle, Mitotic"	ADNP	0.093778453
+"Cell Cycle, Mitotic"	AKAP8L	0.087903903
+"Cell Cycle, Mitotic"	ALOX5AP	0.197854219
+"Cell Cycle, Mitotic"	ANAPC5	0.097616521
+"Cell Cycle, Mitotic"	ANKRD11	0.113789815
+"Cell Cycle, Mitotic"	ARL6IP6	0.068862977
+"Cell Cycle, Mitotic"	ARNT	0.062087684
+"Cell Cycle, Mitotic"	ASF1A	0.059503266
+"Cell Cycle, Mitotic"	ASPM	0.167195339
+"Cell Cycle, Mitotic"	ASXL2	0.069158521
+"Cell Cycle, Mitotic"	ATAD2	0.157135735
+"Cell Cycle, Mitotic"	AURKA	0.114502824
+"Cell Cycle, Mitotic"	AURKB	0.197388499
+"Cell Cycle, Mitotic"	BABAM2	0.060147295
+"Cell Cycle, Mitotic"	BARD1	0.061997257
+"Cell Cycle, Mitotic"	BAZ1A	0.06601111
+"Cell Cycle, Mitotic"	BCOR	0.066783006
+"Cell Cycle, Mitotic"	BECN1	0.061279888
+"Cell Cycle, Mitotic"	BMI1	0.051291072
+"Cell Cycle, Mitotic"	BRCA1	0.14162797
+"Cell Cycle, Mitotic"	BRCC3	0.069725567
+"Cell Cycle, Mitotic"	BRD4	0.097733908
+"Cell Cycle, Mitotic"	BUB1B	0.110220351
+"Cell Cycle, Mitotic"	BUB3	0.166217113
+"Cell Cycle, Mitotic"	CAP1	0.13671443
+"Cell Cycle, Mitotic"	CCDC6	0.071264725
+"Cell Cycle, Mitotic"	CCNA2	0.154043538
+"Cell Cycle, Mitotic"	CCNB1	0.173071562
+"Cell Cycle, Mitotic"	CCNB2	0.165295195
+"Cell Cycle, Mitotic"	CCND2	0.073609814
+"Cell Cycle, Mitotic"	CCND3	0.147273984
+"Cell Cycle, Mitotic"	CCNF	0.053391835
+"Cell Cycle, Mitotic"	CCNI	0.135415353
+"Cell Cycle, Mitotic"	CCT2	0.092207881
+"Cell Cycle, Mitotic"	CCT3	0.100567483
+"Cell Cycle, Mitotic"	CDC20	0.177087515
+"Cell Cycle, Mitotic"	CDC23	0.055624687
+"Cell Cycle, Mitotic"	CDC25C	0.058016019
+"Cell Cycle, Mitotic"	CDC27	0.113225715
+"Cell Cycle, Mitotic"	CDC45	0.052524918
+"Cell Cycle, Mitotic"	CDC6	0.05313041
+"Cell Cycle, Mitotic"	CDK1	0.157186433
+"Cell Cycle, Mitotic"	CDK2	0.06126489
+"Cell Cycle, Mitotic"	CDK4	0.146571061
+"Cell Cycle, Mitotic"	CDK6	0.050124318
+"Cell Cycle, Mitotic"	CDK9	0.052040624
+"Cell Cycle, Mitotic"	CDKN1A	0.193077277
+"Cell Cycle, Mitotic"	CDT1	0.155171268
+"Cell Cycle, Mitotic"	CEP152	0.058276756
+"Cell Cycle, Mitotic"	CEP170	0.080508403
+"Cell Cycle, Mitotic"	CEP350	0.162609983
+"Cell Cycle, Mitotic"	CEP57	0.155083406
+"Cell Cycle, Mitotic"	CHD1L	0.053816833
+"Cell Cycle, Mitotic"	CKAP5	0.139862958
+"Cell Cycle, Mitotic"	CKS1B	0.226829478
+"Cell Cycle, Mitotic"	CKS2	0.233931977
+"Cell Cycle, Mitotic"	CMTM6	0.131333476
+"Cell Cycle, Mitotic"	CSTB	0.203881035
+"Cell Cycle, Mitotic"	CTCF	0.097405192
+"Cell Cycle, Mitotic"	DBF4	0.09648637
+"Cell Cycle, Mitotic"	DCP2	0.082755761
+"Cell Cycle, Mitotic"	DHFR	0.176180434
+"Cell Cycle, Mitotic"	DNA2	0.062943475
+"Cell Cycle, Mitotic"	DNMT1	0.132833496
+"Cell Cycle, Mitotic"	DONSON	0.067618609
+"Cell Cycle, Mitotic"	E2F7	0.060243077
+"Cell Cycle, Mitotic"	E2F8	0.05144064
+"Cell Cycle, Mitotic"	EED	0.092150546
+"Cell Cycle, Mitotic"	ELF1	0.057000545
+"Cell Cycle, Mitotic"	ESR1	0.064890016
+"Cell Cycle, Mitotic"	ESR2	0.065121145
+"Cell Cycle, Mitotic"	EZH2	0.161245169
+"Cell Cycle, Mitotic"	FANCI	0.163411394
+"Cell Cycle, Mitotic"	FBXO5	0.087160037
+"Cell Cycle, Mitotic"	FEN1	0.12785971
+"Cell Cycle, Mitotic"	FOXM1	0.101625242
+"Cell Cycle, Mitotic"	GATAD2B	0.069627534
+"Cell Cycle, Mitotic"	GINS1	0.057265491
+"Cell Cycle, Mitotic"	GINS2	0.159703027
+"Cell Cycle, Mitotic"	GMNN	0.106794192
+"Cell Cycle, Mitotic"	HAUS4	0.096414044
+"Cell Cycle, Mitotic"	HLTF	0.072029186
+"Cell Cycle, Mitotic"	ID2	0.096245167
+"Cell Cycle, Mitotic"	IGBP1	0.113820089
+"Cell Cycle, Mitotic"	KDM4B	0.084731115
+"Cell Cycle, Mitotic"	LGALS3BP	0.019711282
+"Cell Cycle, Mitotic"	LIG1	0.10035797
+"Cell Cycle, Mitotic"	LRRFIP2	0.122337739
+"Cell Cycle, Mitotic"	MAD2L1	0.154531362
+"Cell Cycle, Mitotic"	MAD2L2	0.093487428
+"Cell Cycle, Mitotic"	MAX	0.058151557
+"Cell Cycle, Mitotic"	MCM10	0.064397358
+"Cell Cycle, Mitotic"	MCM2	0.132862675
+"Cell Cycle, Mitotic"	MCM3	0.118202951
+"Cell Cycle, Mitotic"	MCM4	0.118034947
+"Cell Cycle, Mitotic"	MCM5	0.088673647
+"Cell Cycle, Mitotic"	MCM6	0.106214874
+"Cell Cycle, Mitotic"	MCM7	0.161334815
+"Cell Cycle, Mitotic"	MCMBP	0.093045826
+"Cell Cycle, Mitotic"	MEX3C	0.052385925
+"Cell Cycle, Mitotic"	MGMT	0.098496447
+"Cell Cycle, Mitotic"	MTF2	0.11211432
+"Cell Cycle, Mitotic"	MYBL2	0.211386075
+"Cell Cycle, Mitotic"	MYC	0.050329096
+"Cell Cycle, Mitotic"	NCAPD2	0.178812338
+"Cell Cycle, Mitotic"	NCAPD3	0.07292677
+"Cell Cycle, Mitotic"	NCAPG	0.177720164
+"Cell Cycle, Mitotic"	NCAPG2	0.140498578
+"Cell Cycle, Mitotic"	NCAPH	0.11774804
+"Cell Cycle, Mitotic"	NUSAP1	0.176718196
+"Cell Cycle, Mitotic"	ODF2	0.063137894
+"Cell Cycle, Mitotic"	ORC3	0.060872677
+"Cell Cycle, Mitotic"	ORC6	0.156761352
+"Cell Cycle, Mitotic"	PAFAH1B1	0.107296746
+"Cell Cycle, Mitotic"	PBX3	0.1833453
+"Cell Cycle, Mitotic"	PCGF5	0.132013205
+"Cell Cycle, Mitotic"	PCM1	0.153707253
+"Cell Cycle, Mitotic"	PCNA	0.265865393
+"Cell Cycle, Mitotic"	PDE4B	0.105881504
+"Cell Cycle, Mitotic"	PDE4DIP	0.062829293
+"Cell Cycle, Mitotic"	PDS5A	0.100828651
+"Cell Cycle, Mitotic"	PLK1	0.115722667
+"Cell Cycle, Mitotic"	PLK4	0.055242544
+"Cell Cycle, Mitotic"	POLA1	0.074930912
+"Cell Cycle, Mitotic"	POLA2	0.063489513
+"Cell Cycle, Mitotic"	POLB	0.058376375
+"Cell Cycle, Mitotic"	POLD1	0.056567782
+"Cell Cycle, Mitotic"	POLD2	0.058065891
+"Cell Cycle, Mitotic"	POLD4	0.158070538
+"Cell Cycle, Mitotic"	POLE4	0.10201741
+"Cell Cycle, Mitotic"	POLH	0.109933241
+"Cell Cycle, Mitotic"	POLQ	0.129342839
+"Cell Cycle, Mitotic"	POU2F1	0.060572437
+"Cell Cycle, Mitotic"	PPP2R2A	0.059771788
+"Cell Cycle, Mitotic"	PRIM1	0.076158354
+"Cell Cycle, Mitotic"	PRIM2	0.098770924
+"Cell Cycle, Mitotic"	PTEN	0.101042036
+"Cell Cycle, Mitotic"	PTTG1	0.185915979
+"Cell Cycle, Mitotic"	RAD21	0.175927897
+"Cell Cycle, Mitotic"	RAD54L	0.071190719
+"Cell Cycle, Mitotic"	RASSF1	0.050544874
+"Cell Cycle, Mitotic"	RB1	0.106912735
+"Cell Cycle, Mitotic"	RBL2	0.06127156
+"Cell Cycle, Mitotic"	REV1	0.066356165
+"Cell Cycle, Mitotic"	REV3L	0.1372938
+"Cell Cycle, Mitotic"	RIF1	0.10383659
+"Cell Cycle, Mitotic"	RNASEH2A	0.079595152
+"Cell Cycle, Mitotic"	RNASEH2B	0.08936393
+"Cell Cycle, Mitotic"	RNASEH2C	0.09445838
+"Cell Cycle, Mitotic"	RPA3	0.145888495
+"Cell Cycle, Mitotic"	RYBP	0.074445994
+"Cell Cycle, Mitotic"	SCAF11	0.100352684
+"Cell Cycle, Mitotic"	SERPINB6	0.121376002
+"Cell Cycle, Mitotic"	SET	0.132911796
+"Cell Cycle, Mitotic"	SFI1	0.076822335
+"Cell Cycle, Mitotic"	SGO2	0.076481156
+"Cell Cycle, Mitotic"	SHLD2	0.069977108
+"Cell Cycle, Mitotic"	SMC1A	0.132710091
+"Cell Cycle, Mitotic"	SMC2	0.132652353
+"Cell Cycle, Mitotic"	SMC3	0.125202273
+"Cell Cycle, Mitotic"	SMC4	0.211290329
+"Cell Cycle, Mitotic"	SMC5	0.060707619
+"Cell Cycle, Mitotic"	SMC6	0.119078885
+"Cell Cycle, Mitotic"	SPI1	0.118562226
+"Cell Cycle, Mitotic"	SSRP1	0.174911915
+"Cell Cycle, Mitotic"	STAG1	0.066803971
+"Cell Cycle, Mitotic"	STAG2	0.112074475
+"Cell Cycle, Mitotic"	STIL	0.11087605
+"Cell Cycle, Mitotic"	SUPT16H	0.102379012
+"Cell Cycle, Mitotic"	SUZ12	0.138847034
+"Cell Cycle, Mitotic"	TFDP1	0.158355498
+"Cell Cycle, Mitotic"	TFEB	0.089697006
+"Cell Cycle, Mitotic"	TIMELESS	0.127228207
+"Cell Cycle, Mitotic"	TK1	0.171039331
+"Cell Cycle, Mitotic"	TOPORS	0.063098674
+"Cell Cycle, Mitotic"	TPX2	0.220312559
+"Cell Cycle, Mitotic"	TRAPPC8	0.055572806
+"Cell Cycle, Mitotic"	TRIM24	0.07993735
+"Cell Cycle, Mitotic"	TRIP13	0.072158157
+"Cell Cycle, Mitotic"	TTK	0.080313605
+"Cell Cycle, Mitotic"	TUBG1	0.102023035
+"Cell Cycle, Mitotic"	TUBGCP3	0.061295886
+"Cell Cycle, Mitotic"	TYMS	0.280571797
+"Cell Cycle, Mitotic"	UBAP2L	0.066251815
+"Cell Cycle, Mitotic"	UBE2C	0.26657506
+"Cell Cycle, Mitotic"	UBE2D1	0.062267575
+"Cell Cycle, Mitotic"	UBE2E1	0.121518352
+"Cell Cycle, Mitotic"	UBE2S	0.18473394
+"Cell Cycle, Mitotic"	USP37	0.054961491
+"Cell Cycle, Mitotic"	WAPL	0.110575056
+"Cell Cycle, Mitotic"	WDHD1	0.10398903
+"Cell Cycle, Mitotic"	WDR48	0.058259592
+"Cell Cycle, Mitotic"	XRCC1	0.075368316
+Chromosome Maintenance	IGBP1	0.113820089
+Chromosome Maintenance	ACD	0.056246311
+Chromosome Maintenance	ANKLE2	0.108416108
+Chromosome Maintenance	ATAD5	0.081313089
+Chromosome Maintenance	BLM	0.094714189
+Chromosome Maintenance	CENPA	0.115753898
+Chromosome Maintenance	CENPM	0.194619513
+Chromosome Maintenance	CENPN	0.103285462
+Chromosome Maintenance	CENPS	0.062901823
+Chromosome Maintenance	CENPU	0.16852205
+Chromosome Maintenance	CENPX	0.086919968
+Chromosome Maintenance	CHTF8	0.069514448
+Chromosome Maintenance	DHX15	0.070538444
+Chromosome Maintenance	DKC1	0.056972913
+Chromosome Maintenance	DSCC1	0.054685765
+Chromosome Maintenance	FAAP20	0.088058928
+Chromosome Maintenance	FANCC	0.051242656
+Chromosome Maintenance	FANCG	0.069822267
+Chromosome Maintenance	FANCL	0.075955153
+Chromosome Maintenance	FUBP1	0.084469058
+Chromosome Maintenance	HJURP	0.099660111
+Chromosome Maintenance	HMGN1	0.164200025
+Chromosome Maintenance	HMGN2	0.203288877
+Chromosome Maintenance	IPO9	0.087903847
+Chromosome Maintenance	ITGB3BP	0.061907104
+Chromosome Maintenance	MPHOSPH8	0.050302913
+Chromosome Maintenance	NCAPH2	0.073199973
+Chromosome Maintenance	NOLC1	0.07825478
+Chromosome Maintenance	NONO	0.169963513
+Chromosome Maintenance	NPM1	0.081906128
+Chromosome Maintenance	OIP5	0.08445874
+Chromosome Maintenance	PARP4	0.107103699
+Chromosome Maintenance	PDLIM1	0.18394742
+Chromosome Maintenance	POT1	0.051114898
+Chromosome Maintenance	PRKDC	0.1631843
+Chromosome Maintenance	RBM17	0.104571578
+Chromosome Maintenance	RBM5	0.085567465
+Chromosome Maintenance	RFC1	0.099326702
+Chromosome Maintenance	RFC2	0.100382287
+Chromosome Maintenance	RFC4	0.095506579
+Chromosome Maintenance	RFC5	0.06410022
+Chromosome Maintenance	RFWD3	0.062401656
+Chromosome Maintenance	RMI1	0.056252795
+Chromosome Maintenance	RMI2	0.137919264
+Chromosome Maintenance	RPA1	0.158897594
+Chromosome Maintenance	RPA2	0.129558319
+Chromosome Maintenance	RPAIN	0.080213576
+Chromosome Maintenance	RSF1	0.086140595
+Chromosome Maintenance	SF3A2	0.07690038
+Chromosome Maintenance	SFPQ	0.106087723
+Chromosome Maintenance	SMARCA5	0.120033765
+Chromosome Maintenance	TEN1	0.069794577
+Chromosome Maintenance	TERF2IP	0.082625928
+Chromosome Maintenance	THYN1	0.070489232
+Chromosome Maintenance	TNKS	0.078884038
+Chromosome Maintenance	TNKS2	0.068246375
+Chromosome Maintenance	TP53BP1	0.056836557
+Chromosome Maintenance	U2SURP	0.080766703
+Chromosome Maintenance	XRCC5	0.099417156
+Chromosome Maintenance	XRCC6	0.110126948
+Chromosome Maintenance	ZFR	0.083754033
